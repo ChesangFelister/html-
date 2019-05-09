@@ -1,0 +1,47 @@
+body{background-color:#eeee}
+
+.new{width:500px;
+	margin:40px auto;
+	content: center;  }
+
+
+.new table{
+	width:100%;
+	background-color:#aaa; 
+	text-align: left;
+	border:1px solid #aaa;
+	border-collapse: collapse;
+
+}
+.new  table tr{
+	border-bottom:1px 2c45d #0fff;
+	 background-color:#2c45;
+
+}
+.new tr td:nth_child(odd){
+	color:pink }
+
+.new table tr td{
+	border: 2px solid #0ccc;
+}
+.new table tr th {border: 2px solid #6ccc;
+background-color: #4bbb;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
