@@ -1,0 +1,48 @@
+body{
+	background-image: url(../img/waterfall.jpg),url(../img/cautfish.gif),url(../img/uglyfish.jpg);
+	background-repeat: no-repeat;
+	background-position:right 50% ,right-top left 20%;
+	background-attachment: fixed:;
+	background-size:cover;}
+
+.container{color:blue;
+		margin:auto;
+		width:600px;
+		height: 800px;
+		background-color: rgba(0,0,0,0.25);	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*
+	background-position: right-top;
+	background-attachment: fixed;
+ 	background-size: 20%;
+ 	background-size: 50%,30%cover;
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
